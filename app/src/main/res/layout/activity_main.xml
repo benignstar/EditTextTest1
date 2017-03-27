@@ -21,6 +21,7 @@
         android:hint="성명을 입력해 주세요."/>
     <Button
         android:id="@+id/but_ok"
+        android:text="Click"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
     <TextView
